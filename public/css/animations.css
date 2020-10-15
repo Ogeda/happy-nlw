@@ -11,6 +11,15 @@
     }
 }
 
+@keyframes right {
+    from {
+        
+    }
+    to {
+
+    }
+}
+
 .animate-up {
     animation-name: up;
     animation-duration: 300ms;
